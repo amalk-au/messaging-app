@@ -206,8 +206,8 @@ li::before {
   justify-content: flex-start;
   gap: 10px;
   border: 1px solid black;
-  max-width: 800px; /* Prevent it from getting too wide on large screens */
-  width: 90%; /* Take 90% of parent width */
+  /* max-width: 800px;  */ /* Prevent it from getting too wide on large screens */
+  /* width: 90%; */ /* Take 90% of parent width */
   box-sizing: border-box; /* Include padding/border in its total width */
   margin-top: 20px; /* Add some space below the menuBar */
   padding: 15px; /* Add some internal padding */
