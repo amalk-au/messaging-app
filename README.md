@@ -79,6 +79,18 @@ The frontend and backend are maintained in separate directories within the same 
 
 ## Screenshots
 
+<p align="center">
+  <img src="./docs/screenshots/main-view.png" alt="Main View" width="800" />
+  <img src="./docs/screenshots/login.png" alt="Login" width="400" />
+  <img src="./docs/screenshots/register.png" alt="Register" width="400" />
+  <img src="./docs/screenshots/profile.png" alt="Profile" width="800" />
+  <img src="./docs/screenshots/jwt-status.png" alt="JWT Status" width="800" />
+  <img src="./docs/screenshots/all-messages-view.png" alt="All Messages" width="800" />
+  <img src="./docs/screenshots/all-contacts.png" alt="All Contacts" width="800" />
+  <img src="./docs/screenshots/new-message.png" alt="New Message" width="400" />
+    <img src="./docs/screenshots/docs.png" alt="New Message" width="800" />
+</p>
+
 **Application:**[https://www.amalk.au/messaging-app](https://www.amalk.au/messaging-app)
 
 > **Deployment note:** The frontend uses React Router with browser-based routing. Directly accessing nested routes, such as `/send`, may result in a 404 response depending on the hosting configuration. Use the application's internal navigation when accessing the live demo.
