@@ -91,11 +91,9 @@ The frontend and backend are maintained in separate directories within the same 
     <img src="./docs/screenshots/docs.png" alt="New Message" width="800" />
 </p>
 
-**Application:**[https://www.amalk.au/messaging-app](https://www.amalk.au/messaging-app)
-
 > **Deployment note:** The frontend uses React Router with browser-based routing. Directly accessing nested routes, such as `/send`, may result in a 404 response depending on the hosting configuration. Use the application's internal navigation when accessing the live demo.
 >
-> The backend and database use separately hosted services. A demo instance is hosted on Render and Neon.
+> The backend and database use separately hosted services.
 
 ## Tech Stack
 
